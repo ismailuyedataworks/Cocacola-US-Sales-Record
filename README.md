@@ -19,7 +19,7 @@ The goal is to uncover **key business insights** and build an **interactive Exce
 
 ## 🌐 Live Dashboard  
 Experience the interactive dashboard live here:
-[Click to view the live dashboard](https://1drv.ms/x/c/a145471cdb65b729/EUJwvMiMN4BHuoc1zodMpCkB9ITM1XKm_Wk0oRwsI230kw?e=FYBckO)
+[Click to view the live dashboard](https://1drv.ms/x/c/a145471cdb65b729/EUJwvMiMN4BHuoc1zodMpCkB9ITM1XKm_Wk0oRwsI230kw?e=vEYMgE)
 
 ## 🎯 Purpose  
 To provide a **clear, data-driven overview** of Coca-Cola’s sales operations (2013–2015), highlighting **trends, revenue, profitability, and product performance** across regions and retailers.  
