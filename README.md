@@ -1,9 +1,11 @@
-# 🥤 Coca-Cola U.S. Sales Performance Analysis/Record  
+# <img width="50" height="50" alt="coca" src="https://github.com/user-attachments/assets/31647bc8-143b-45a5-9ba6-ab21b86fd4a0" /> Coca-Cola U.S. Sales Performance Analysis/Record  
 
 ## 📌 Project Review  
 This project explores **Coca-Cola’s U.S. sales dataset**, containing ~9,600 records across multiple retailers, states, and regions. The analysis dives into **sales revenue, profit, product categories, pricing, and retailer performance**.  
 
 The goal is to uncover **key business insights** and build an **interactive Excel dashboard** that helps stakeholders make data-driven decisions on **growth, profitability, and market expansion**.  
+
+---
 
 ## ✅ Objectives  
 - 📊 Track sales and profit trends across products, time, and geography  
@@ -12,17 +14,25 @@ The goal is to uncover **key business insights** and build an **interactive Exce
 - 💰 Analyze **profitability and margin distribution**  
 - 🎯 Deliver **actionable recommendations** for business growth  
 
+---
+
 ## 🛠️ Tools & Technologies  
 - 💻 **Microsoft Excel** → Data cleaning, analysis & dashboard design  
 - 📈 **Pivot Tables & Charts** → Interactive exploration  
 - 📂 **Coca-Cola Sales Dataset (.xls)** → Source data
 
+---
+
 ## 🌐 Live Dashboard  
 Experience the interactive dashboard live here:
 [Click to view the live dashboard](https://1drv.ms/x/c/a145471cdb65b729/EUJwvMiMN4BHuoc1zodMpCkB9ITM1XKm_Wk0oRwsI230kw?e=vEYMgE)
 
+---
+
 ## 🎯 Purpose  
 To provide a **clear, data-driven overview** of Coca-Cola’s sales operations (2013–2015), highlighting **trends, revenue, profitability, and product performance** across regions and retailers.  
+
+---
 
 ## 🔑 Key Insights from Dashboard  
 - 💵 **Total Revenue:** $12,016,665  
@@ -36,8 +46,12 @@ To provide a **clear, data-driven overview** of Coca-Cola’s sales operations (
 - 📈 **Average Operating Margin:** $0.42  
    → Reflects strong operational efficiency and consistent profitability.  
 
+---
+
 ## 🖼️ Dashboard Preview 
 ![Cocacola US Sales Dashboard](Dashboard_Cocacola.png)
+
+---
 
 ## ❓ Key Business Questions Answered  
 - Which beverages generate the **highest and lowest revenue**?  
@@ -46,12 +60,16 @@ To provide a **clear, data-driven overview** of Coca-Cola’s sales operations (
 - How **profitable** are Coca-Cola’s different beverages?  
 - What **sales patterns** emerge over time?  
 
+---
+
 ## 🔑 Key Insights  
 - 🥇 **Coca-Cola Classic** is the **top-selling product**, dominating both sales & revenue.  
 - 🚨 **Powerade and Fanta** lag in performance, signaling growth opportunities.  
 - 🏬 **Retailer dependence** is high – most sales come from a few big retailers.  
 - 🌎 Sales are **geographically uneven**, with certain states leading while others show untapped potential.  
 - 💰 **Profit margins** vary widely – some products generate high profit despite low sales.  
+
+---
 
 ## 📊 Detailed Report  
 From the dashboard analysis:  
@@ -60,6 +78,8 @@ From the dashboard analysis:
 - 📈 **Operating Profit & Margin** → Strong for Coca-Cola Classic, weaker for niche products  
 - 🌍 **Regional Sales Distribution** → High in populous states; growth opportunities in underrepresented areas  
 - 🏬 **Retailer Analysis** → A handful of major retailers dominate, signaling both opportunities and risks  
+
+---
 
 ## 💡 Recommendations  
 - **Expand Product Strategy** → Boost underperforming lines (e.g., Powerade, Fanta) with promotions & campaigns  
@@ -93,10 +113,14 @@ Coca-Cola can **strengthen market share** and achieve **sustainable growth**.
 
 🔗 I encourage you to explore the dashboard, test different filters, and discover how data-driven decision-making can transform business strategies.  
 
+---
+
 ## 👨‍💻 Author  
 **Ismail** – *Data Analyst | Data Enthusiast*  
 
 I’m passionate about turning raw datasets into meaningful insights 📊. With hands-on experience in **Excel**, **SQL**, and **Power BI**, I enjoy analyzing, visualizing, and storytelling with data to support smarter business decisions 🚀.  
+
+---
 
 🔗 **Let’s Connect**  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/uye-ismail-d)  
@@ -104,6 +128,8 @@ I’m passionate about turning raw datasets into meaningful insights 📊. With 
 - 📧 uyeismaildanzismuye@gmail.com  
 
 🔥 *“Without data, you’re just another person with an opinion.”* — W. Edwards Deming
+
+---
 
 ## 🙏 Closing Note  
 Thank you for taking the time to explore this project 💡.  
