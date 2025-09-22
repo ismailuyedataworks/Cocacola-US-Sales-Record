@@ -1,8 +1,8 @@
 # <img width="50" height="50" alt="coca" src="https://github.com/user-attachments/assets/31647bc8-143b-45a5-9ba6-ab21b86fd4a0" /> Coca-Cola U.S. Sales Performance Analysis/Record  
 
-![GitHub last commit](https://img.shields.io/github/last-commit/ismailuyedataworks/cocacola-us-sales-records)  
-![GitHub repo size](https://img.shields.io/github/repo-size/ismailuyedataworks/cocacola-us-sales-records)  
-![GitHub stars](https://img.shields.io/github/stars/ismailuyedataworks/cocacola-us-sales-records?style=social)  
+![GitHub last commit](https://img.shields.io/github/last-commit/ismailuyedataworks/cocacola-us-sales-record)  
+![GitHub repo size](https://img.shields.io/github/repo-size/ismailuyedataworks/cocacola-us-sales-record)  
+![GitHub stars](https://img.shields.io/github/stars/ismailuyedataworks/cocacola-us-sales-record?style=social)  
 
 ---
 ## 📌 Project Review  
